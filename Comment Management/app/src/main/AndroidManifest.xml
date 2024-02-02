@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.MyApplication"
+        tools:targetApi="31">
+        <activity
+            android:name=".activities.update_dialog"
+            android:exported="true" />
+        <activity
+            android:name=".activities.ShopCommentListActivity"
+            android:exported="true" />
+        <activity
+            android:name=".activities.comment_list_activity"
+            android:exported="true" />
+        <activity
+            android:name=".activities.Edit_Review"
+            android:exported="true" />
+        <activity
+            android:name=".activities.manageReview"
+            android:exported="true" />
+        <activity
+            android:name=".activities.addComment"
+            android:exported="true" />
+        <activity
+            android:name=".activities.Shop_commentpreview"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

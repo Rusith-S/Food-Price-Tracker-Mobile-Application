@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Food-Price_Tracker</string>
+    <string name="shop_Name">Shop Name</string>
+    <string name="btnAddComment">Add Comment</string>
+    <string name="btnSubmitComment">Submit</string>
+    <string name="reviewComments">View Comments History</string>
+    <string name="manageComment">Review History</string>
+    <string name="editReview">Edit Review</string>
+    <string name="btndelete">Delete</string>
+    <string name="btnsave">Update</string>
+    <string name="user">User Name</string>
+    <string name="shop">Shop Name</string>
+    <string name="comment">Comment</string>
+    <string name="btnupdate">Save</string>
+</resources>

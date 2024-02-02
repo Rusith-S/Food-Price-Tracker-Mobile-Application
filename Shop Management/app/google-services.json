@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "716245204261",
+    "firebase_url": "https://food-price-tracker-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "food-price-tracker",
+    "storage_bucket": "food-price-tracker.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:716245204261:android:c0e0deb39c2b402badaecc",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "716245204261-5dht0gtep5r49srv5j8200pert9i5edv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSpspgSkPUUgv4-FbRoYauulf4FZvbby8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "716245204261-5dht0gtep5r49srv5j8200pert9i5edv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:716245204261:android:65fc7c597f0b39dfadaecc",
+        "android_client_info": {
+          "package_name": "com.example.searchitem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "716245204261-5dht0gtep5r49srv5j8200pert9i5edv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSpspgSkPUUgv4-FbRoYauulf4FZvbby8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "716245204261-5dht0gtep5r49srv5j8200pert9i5edv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:716245204261:android:6229b6311e259b36adaecc",
+        "android_client_info": {
+          "package_name": "com.example.userlogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "716245204261-5dht0gtep5r49srv5j8200pert9i5edv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSpspgSkPUUgv4-FbRoYauulf4FZvbby8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "716245204261-5dht0gtep5r49srv5j8200pert9i5edv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
